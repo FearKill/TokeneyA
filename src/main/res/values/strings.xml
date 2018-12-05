@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tokeney-2.2</string>
+    <string name="action_settings">Settings</string>
+    <string name="impossible_game">Tokeney</string>
+    <string name="retry_button_text">Refresh</string>
+    <string name="watch_video_button_text">Get a Token!</string>
+    <string name="default_coin_text">Tokens: 0</string>
+</resources>
